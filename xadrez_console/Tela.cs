@@ -23,11 +23,6 @@ namespace xadrez_console
                 }
                 Console.WriteLine();
             }
-
-
-
         }
-
-
     }
 }
